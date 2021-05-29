@@ -14,11 +14,15 @@ HELLOOOOO
 
 | :technologist: <a name="toolbox"/> | Technologies |
 |-|-|
-| Programming Languages | ![JS](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) ![Java](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |  
+| Programming Languages | ![JS][1] ![Java][2] |  
 | Markup Languages |  |
 | Frameworks & Libraries |  |
 | Others |  |
 
+
+
+[1]: https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
+[2]: https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
 <!--
 **MiguelJRM95/MiguelJRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
