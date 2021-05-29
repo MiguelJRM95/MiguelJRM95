@@ -13,7 +13,7 @@ HELLOOOOO
 
 
 | ### :technologist: <a name="toolbox"/> | Technologies |
-|-|-|-|-|-|
+|-|-|
 | Programming \\n Languages |  |  
 | Markup \\n Languages |  |
 | FrameWorks |  |
