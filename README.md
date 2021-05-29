@@ -1,4 +1,6 @@
-### Hi there 👋
+# Miguel Rodríguez Martínez Github
+
+### Hi! Welcome to my github :wave: , I'm Miguel Rodríguez, and currently i'm looking for my first web development job.
 
 <!--
 **MiguelJRM95/MiguelJRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
