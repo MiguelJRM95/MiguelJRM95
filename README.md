@@ -15,7 +15,7 @@ HELLOOOOO
 | :technologist: <a name="toolbox"/> | Technologies|
 |-|-|
 | Programming Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60"/> |  
-| Markup Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://icon-library.com/images/xml-file-icon/xml-file-icon-14.jpg" width="100" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> |
+| Markup Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://www.svgrepo.com/show/31053/xml.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> |
 | Frameworks & Libraries |  |
 | Others |  |
 
