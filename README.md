@@ -7,15 +7,15 @@
 
 =============
 
-<! -- ### :technologist: <a name="toolbox"/>
+<!-- ### :technologist: <a name="toolbox"/>
 
 HELLOOOOO
 -->
 
 | :technologist: <a name="toolbox"/> | Technologies |
 |-|-|
-| Programming \n Languages |  |  
-| Markup \n Languages |  |
+| Programming Languages |  |  
+| Markup Languages |  |
 | FrameWorks |  |
 
 <!--
