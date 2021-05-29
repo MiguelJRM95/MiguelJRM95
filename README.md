@@ -11,6 +11,13 @@
 
 HELLOOOOO
 
+
+| ### :technologist: <a name="toolbox"/> | Technologies |
+|-|-|-|-|-|
+| Programming \\n Languages |  |  
+| Markup \\n Languages |  |
+| FrameWorks |  |
+
 <!--
 **MiguelJRM95/MiguelJRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
