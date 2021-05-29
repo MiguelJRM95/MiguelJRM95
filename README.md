@@ -4,21 +4,15 @@
 ##### I discovered the exciting world of programming during confinement in 2020 and since then I have not stopped learning and getting closer to this constantly changing world.
 -------------
 #### I'm a web developer specialized in Java and Javascript. You can see the technologies I have experience with in the [toolbox](#toolbox) below :shipit: .
+### You can reach me through [LinkedIn](https://www.linkedin.com/in/web-developer-software-miguel-rodriguez/?locale=en_US)
 
-## &#x1f4c8; My GitHub Stats
+## :beginner: My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<MiguelJRM95>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| :footprints: | :memo: |
+|- |-|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJRM95&hide=java,html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats) | [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelJRM95&theme=react)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=<MiguelJRM95>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-=============
-
-<!-- ### :technologist: <a name="toolbox"/>
-
-HELLOOOOO
--->
+-------------
 
 | :technologist: <a name="toolbox"/> | Technologies|
 |-|-|
