@@ -12,8 +12,8 @@
 HELLOOOOO
 -->
 
-| :technologist: <a name="toolbox"/> | Technologies |
-|-|-|
+| :technologist: <a name="toolbox"/> | Technologies                       |
+|-|-                        |
 | Programming Languages | ![JS][1] ![Java][2] |  
 | Markup Languages |  |
 | Frameworks & Libraries |  |
