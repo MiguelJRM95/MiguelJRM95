@@ -21,8 +21,8 @@ HELLOOOOO
 
 
 
-[1]: https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
-[2]: https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+[1]: https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg#left
+[2]: https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg#right
 <!--
 **MiguelJRM95/MiguelJRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
