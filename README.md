@@ -13,8 +13,8 @@ HELLOOOOO
 -->
 
 | :technologist: <a name="toolbox"/> | Technologies|
-|-|-|-|-|-|-|
-| Programming Languages | ![JS][1] ![Java][2] |  
+|-|-|
+| Programming Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> |  
 | Markup Languages |  |
 | Frameworks & Libraries |  |
 | Others |  |
