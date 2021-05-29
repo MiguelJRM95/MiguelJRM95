@@ -5,6 +5,14 @@
 -------------
 #### I'm a web developer specialized in Java and Javascript. You can see the technologies I have experience with in the [toolbox](#toolbox) below :shipit: .
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<MiguelJRM95>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=<MiguelJRM95>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 =============
 
 <!-- ### :technologist: <a name="toolbox"/>
@@ -14,15 +22,11 @@ HELLOOOOO
 
 | :technologist: <a name="toolbox"/> | Technologies|
 |-|-|
-| Programming Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60"/> |  
+| Programming Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/> |  
 | Markup Languages | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://www.svgrepo.com/show/31053/xml.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> |
-| Frameworks & Libraries |  |
-| Others |  |
+| Frameworks & Libraries | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60" height="60"/> <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="80" height="60"/> |
+| Others | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="60" height="60"/> <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/> |
 
-
-
-[1]: https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
-[2]: https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
 <!--
 **MiguelJRM95/MiguelJRM95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
