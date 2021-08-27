@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Markup <br /> Languages</td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://www.svgrepo.com/show/31053/xml.svg" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://www.svgrepo.com/show/31053/xml.svg" width="60" height="60"/>
   </tr>
   <tr>
     <td>Frameworks <br />&<br /> Libraries</td>
