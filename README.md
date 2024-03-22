@@ -2,7 +2,6 @@
 # Miguel Rodríguez Martínez Github :octocat:
 
 ### Hi! Welcome to my github :wave: , I'm Miguel Rodríguez a software engineer interested in all fields of IT but for now I'm focused in development of software solutions.
-##### I discovered the exciting world of programming during confinement in 2020 and since then I have not stopped learning and getting closer to this constantly changing world.
 -------------
 #### I'm specialized in Java and Javascript. You can see the technologies I have experience with in the [toolbox](#toolbox) below :shipit: .
 ### You can reach me through <a href="https://www.linkedin.com/in/web-developer-software-miguel-rodriguez/?locale=en_US" target="_blank">LinkedIn</a>
